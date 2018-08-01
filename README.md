@@ -12,24 +12,24 @@ In terminal:
 
 - Fix all xml files in project dir
 ```
-python CleanScriptPath.py -p <path-to-roku-project>
+python cleanScriptPath.py -p <path-to-roku-project>
 ```
 
-*Ex:* python CleanScriptPath.py -p /Users/tungnguyen/Projects/Roku/MyFirstRokuProject
+*Ex:* python cleanScriptPath.py -p /Users/tungnguyen/Projects/Roku/MyFirstRokuProject
 
 - Or just xml files in module dir
 ```
-python CleanScriptPath.py -p <path-to-roku-project> -m <path-to-module>
+python cleanScriptPath.py -p <path-to-roku-project> -m <path-to-module>
 ```
 
 - Or a certain xml file
 ```
-python CleanScriptPath.py -p <path-to-roku-project> -f <path-to-xml-file>
+python cleanScriptPath.py -p <path-to-roku-project> -f <path-to-xml-file>
 ```
 
 - Or combine
 ```
-python CleanScriptPath.py -p <path-to-roku-project> -m <path-to-module> -f <path-to-xml-file>
+python cleanScriptPath.py -p <path-to-roku-project> -m <path-to-module> -f <path-to-xml-file>
 ```
 
 ## Roku Install
