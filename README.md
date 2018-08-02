@@ -34,6 +34,10 @@ python cleanScriptPath.py -p <path-to-roku-project> -m <path-to-module> -f <path
 
 ## Roku Install
 
+### Requirements
+lynx   
+http://macappstore.org/lynx/
+
 ### How to use
 Open install.sh and set up configs
 
